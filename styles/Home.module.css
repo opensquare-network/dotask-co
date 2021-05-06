@@ -8,6 +8,9 @@
   height: 100vh;
 }
 
+.a1{
+  color: #0070f3;
+}
 .main {
   padding: 5rem 0;
   flex: 1;
